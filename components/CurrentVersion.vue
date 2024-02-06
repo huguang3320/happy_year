@@ -12,7 +12,7 @@ const buildDate = (new Date(Number.parseInt(now))).toLocaleDateString()
       当前版本 v{{ pkg.version }}（{{ buildDate }}）:
     </span>
     <span>
-      <a border="b-1 dashed" :href="`https://github.com/YunYouJun/ai-sfc/commit/${commitSha}`" target="_blank" alt="ai-sfc | GitHub Commit">
+      <a border="b-1 dashed" :href="`https://github.com/huguang3320/happy_year/commit/${commitSha}`" target="_blank" alt="ai-sfc | GitHub Commit">
         {{ commitSha }}
       </a>
     </span>

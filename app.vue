@@ -8,7 +8,7 @@ useHead({
 </script>
 
 <template>
-  <github-corners repo="YunYouJun/ai-sfc" blank />
+  <github-corners repo="huguang3320/happy_year" blank />
   <VitePwaManifest />
   <NuxtLayout>
     <NuxtPage />
