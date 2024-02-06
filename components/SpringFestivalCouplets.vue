@@ -71,7 +71,7 @@ async function shareLink() {
     >
       {{ coupletsData.content}}
     </div>
-
+  </div>
     <!-- <div
        w="50" text="2xl black"
       :class="{
@@ -89,7 +89,7 @@ async function shareLink() {
     >
       {{ coupletsData['菜品说明'] }}
     </div> -->
-  </div>
+ 
     
     <!-- <div
       flex
