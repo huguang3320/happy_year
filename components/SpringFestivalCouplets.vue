@@ -67,7 +67,7 @@ async function shareLink() {
   >
  
     <div
-       w="80" text="1xl black" style="white-space: pre-line;"
+       w="70" text="1xl black" style="white-space: pre-line;"
     >
       {{ coupletsData.content}}
     </div>

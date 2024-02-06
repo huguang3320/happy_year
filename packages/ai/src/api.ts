@@ -32,6 +32,7 @@ export async function getCouplets(nyfsl: string,nyfcx: string,nyfjksw: string) {
     '根据我的提示，生成一份年夜饭菜单',
     '不需要标点符号，不要使用生僻字',
     "格式类型如：菜名:,上手难度:",
+    "菜名和上手难度需要换行展示",
     '上手难度用⭐表示',
     '最后最好写一段对这份菜的总结',
     ]
